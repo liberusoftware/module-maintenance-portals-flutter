@@ -1,0 +1,15 @@
+{
+  "repository": "module-maintenance-portals-flutter",
+  "capabilityKey": "liberusoftware/module-maintenance-portals",
+  "presentation": "mobile-flutter",
+  "package": "module_maintenance_portals_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/maintenance/nextjs/portals.md",
+  "presentationPlan": "projects/maintenance/flutter/portals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "maintenance"
+  ]
+}
